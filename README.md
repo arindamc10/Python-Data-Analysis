@@ -1,1 +1,1 @@
-Predicted the best football playing XI for the Calendar 2019 from the FIFA 2019 player dataset using python data analysis.
+Predicted the best football playing XI for the Calendar 2019 from the FIFA 2019 player dataset using python data analysis. Here from kaggle,the dataset of the performances of all FIFA players was analysed and visualized.From this analysis,the Best Playing Xl for the formation 4-3-3 was found out.
